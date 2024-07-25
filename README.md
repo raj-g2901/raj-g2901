@@ -1,5 +1,6 @@
-[![MasterHead](https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)]()
 <h1 align="center">Hi 👋, I'm Raj</h1>
+<img src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="MasterHead" width="100%" height="500">
+
 <h3 align="center">Full Stack Web Developer | Data Analyst | React.js | Node.js | SQL | Python | NIT Kurukshetra' 25</h3>
 
 <h3 align="left">Connect with me:</h3>
