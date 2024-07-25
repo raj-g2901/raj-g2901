@@ -1,6 +1,7 @@
+[![MasterHead](https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">Full Stack Web Developer | Data Analyst | React.js | Node.js | SQL | Python | NIT Kurukshetra' 25</h3>
-<img align = "right" alt = "coding" width="400" src ="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/raj-gupta2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raj-gupta2" height="30" width="40" /></a>
